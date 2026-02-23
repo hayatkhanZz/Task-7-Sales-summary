@@ -38,11 +38,12 @@ Sample sales data was inserted to perform analysis.
 
 ---
 
-##SQL Query Used
+## SQL Query Used
 
-`sql
+```sql
 SELECT product,
        SUM(quantity) AS total_qty,
        SUM(quantity * price) AS revenue
 FROM sales
 GROUP BY product;
+```
