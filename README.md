@@ -1,7 +1,9 @@
 # Task-7-Sales-summary
 basic Sales summary to pull simple sales info and display it using basic print statements and a simple bar chart 
-##Project Overview
-This project demonstrates how to use Python with SQLite to perform basic SQL queries and visualize sales data.  
+
+## Project Overview
+This project demonstrates how to use Python with SQLite to perform basic SQL queries and visualize sales data. 
+ 
 A small SQLite database (sales_data.db) was created containing a single table named sales.
 
 The project includes:
@@ -14,7 +16,7 @@ The project includes:
 
 ---
 
-##Dataset
+## Dataset
 A small SQLite database file named sales_data.db was created with one table:
 
 ### Table: sales
@@ -29,7 +31,7 @@ Sample sales data was inserted to perform analysis.
 
 ---
 
-##Technologies Used
+## Technologies Used
 - Python
 - SQLite (sqlite3)
 - Pandas
